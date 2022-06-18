@@ -1,5 +1,6 @@
 package com.hihi.core.member;
 
+import com.hihi.core.annotation.MainDiscountPolicy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
